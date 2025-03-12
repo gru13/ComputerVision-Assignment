@@ -13,6 +13,15 @@ This assignment involves various image processing techniques using Python librar
 4. **Combining Segmentations**: Combining binary and multi-region segmentations and refining the results.
 5. **Evaluation**: Evaluating the segmentation results using metrics like Variation of Information (VI), Adapted Rand Error (ARE), and Dice Coefficient.
 
+## Problem Statement
+
+The objective of this assignment is to explore and implement various image processing techniques to enhance and segment noisy images. The key challenges include:
+
+- Effectively reducing noise in images while preserving important details.
+- Accurately segmenting images into meaningful regions using both binary and multi-region segmentation techniques.
+- Combining different segmentation methods to improve overall segmentation quality.
+- Evaluating the performance of the implemented techniques using appropriate metrics.
+
 ## Dependencies
 
 - Python 3.x
