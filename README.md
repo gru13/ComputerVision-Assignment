@@ -44,33 +44,6 @@ The objective of this assignment is to explore and implement various image proce
 
 3. **Data**: Place your noisy images in the `noisy_images` folder.
 
-## Code Structure
-
-- **Loading and Filtering Noisy Images**:
-    ```python
-    ...existing code...
-    ```
-
-- **Binary Segmentation**:
-    ```python
-    ...existing code...
-    ```
-
-- **Multi-Region Segmentation**:
-    ```python
-    ...existing code...
-    ```
-
-- **Combining Segmentations**:
-    ```python
-    ...existing code...
-    ```
-
-- **Evaluation**:
-    ```python
-    ...existing code...
-    ```
-
 ## Results
 
 The results of the segmentation and evaluation are printed in tabular format and visualized using Matplotlib. The best filters and segmentation methods are determined based on the evaluation metrics.
